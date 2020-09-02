@@ -1,4 +1,4 @@
-# cs5213s20-project-g4
+# Infection Spread
 
 ### Authors - Nithivarn Reddy Shanigaram , Siva Rama Krishna Ghanta , Jagadish Chitturi
 
